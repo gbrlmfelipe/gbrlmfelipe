@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]
+Intermediate Full-Stack Developer | VILT Stack & Flutter
 
-<!--
-**gbrlmfelipe/gbrlmfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Skills
+- **Frontend**: Vue.js, Tailwind CSS, Inertia.js
+- **Backend**: Laravel, REST APIs, MySQL
+- **Mobile**: Flutter, Dart
+- **Tools**: Git, GitHub, Postman, VS Code
 
-Here are some ideas to get you started:
+## 📁 Projects
+### 🚀 VILT Projects
+- **Project Name 1** – Short description + [GitHub](#) | [Live Demo](#)
+- **Project Name 2** – Short description + [GitHub](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Flutter Projects
+- **App Name 1** – Short description + [GitHub](#) | [Play Store](#)
+- **App Name 2** – Short description + [GitHub](#)
+
+## 📫 Contact Me
+- Email: your.email@example.com
+- LinkedIn: [your-linkedin](#)
+- Portfolio Website: [yourwebsite.com](#)
