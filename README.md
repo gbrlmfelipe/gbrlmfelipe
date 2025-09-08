@@ -17,4 +17,4 @@ Intermediate Full-Stack Developer | VILT Stack & Flutter
 
 ## 📫 Contact Me
 - Email: gmfdev528@gmail.com
-- LinkedIn: [LinkedIn](https://ph.linkedin.com/in/gabriel-felipe-6b1078238)
+- LinkedIn: [gbrlmfelipe](https://ph.linkedin.com/in/gabriel-felipe-6b1078238)
