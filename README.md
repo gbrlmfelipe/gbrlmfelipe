@@ -9,7 +9,7 @@ Intermediate Full-Stack Developer | VILT Stack & Flutter
 
 ## 📁 Projects
 ### 🚀 VILT Projects
-- **DOTXIEVENTS** – Short description + [GitHub](#) | [Live Demo](#https://dotxievents.com/)
+- **DOTXIEVENTS** – Short description + [GitHub](#) | [Live Demo](https://dotxievents.com/)
 - **Project Name 2** – Short description + [GitHub](#)
 
 ### 📱 Flutter Projects
