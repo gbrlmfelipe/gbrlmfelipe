@@ -9,7 +9,7 @@ Intermediate Full-Stack Developer | VILT Stack & Flutter
 
 ## 📁 Projects
 ### 🚀 VILT Projects
-- **DOTXIEVENTS** – Short description + [GitHub](#) | [Live Demo](https://dotxievents.com/)
+- **DOTXIEVENTS** – a role-based challenge and reward redemption platform that engages users through interactive tasks and incentivizes participation with redeemable rewards. [dotxievents.com](https://dotxievents.com/)
 - **Project Name 2** – Short description + [GitHub](#)
 
 ### 📱 Flutter Projects
