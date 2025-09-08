@@ -9,14 +9,12 @@ Intermediate Full-Stack Developer | VILT Stack & Flutter
 
 ## 📁 Projects
 ### 🚀 VILT Projects
-- **DOTXIEVENTS** – a role-based challenge and reward redemption platform that engages users through interactive tasks and incentivizes participation with redeemable rewards. [dotxievents.com](https://dotxievents.com/)
-- **Project Name 2** – Short description + [GitHub](#)
+- **DOTXIEVENTS** – a role-based challenge and reward redemption platform that engages users through interactive tasks and incentivizes participation with redeemable rewards.
+- **ANCPICPADAVAO** – an event attendance monitoring system with online certificate generation and printing, designed to streamline participant tracking and certification.
 
 ### 📱 Flutter Projects
-- **App Name 1** – Short description + [GitHub](#) | [Play Store](#)
-- **App Name 2** – Short description + [GitHub](#)
+- **ANCPICPADAVAO APP** – a mobile application designed to scan QR codes for seamless attendance tracking during event sessions.
 
 ## 📫 Contact Me
-- Email: your.email@example.com
-- LinkedIn: [your-linkedin](#)
-- Portfolio Website: [yourwebsite.com](#)
+- Email: gmfdev528@gmail.com
+- LinkedIn: [LinkedIn](https://ph.linkedin.com/in/gabriel-felipe-6b1078238)
