@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Gabo
 Intermediate Full-Stack Developer | VILT Stack & Flutter
 
 ## 💼 Skills
@@ -9,7 +9,7 @@ Intermediate Full-Stack Developer | VILT Stack & Flutter
 
 ## 📁 Projects
 ### 🚀 VILT Projects
-- **Project Name 1** – Short description + [GitHub](#) | [Live Demo](#)
+- **DOTXIEVENTS** – Short description + [GitHub](#) | [Live Demo](#https://dotxievents.com/)
 - **Project Name 2** – Short description + [GitHub](#)
 
 ### 📱 Flutter Projects
